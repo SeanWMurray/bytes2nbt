@@ -15,6 +15,7 @@ NBTTag tagObject = nbtData.ParseNbt();
 ```
 
 Additional notes:
+- I just straight-up copied these files from my VS so you'll probably have to change the namespace lol
 - This obviously isn't optimized, I made it in a day
 - I've also included a static NBTPrinter class for debugging purposes
 - Use the code however you want 
